@@ -1,4 +1,4 @@
-Year;Country Code;Birth rate (per 1,000);Capital health expenditure (% of GDP);Death rate, crude (per 1,000);Fertility rate, total (births per woman);GNI per capita;Life expectancy at birth, total (years);Net migration;Population, total
+ANO;COD_PAIS;TX_NATALIDADE_PER_MIL;%GASTO_PIB_SAUDE;TX_MORTALIDADE_PER_MIL;TX_FERTILIDADE_PER_MULHER;PIB_PER_CAPITA;EXP_VIDA;DELTA_MIGRACAO;POP_TOTAL
 1960;BRA;43,86;..;14,025;6,061;..;52,66;51401;73092515
 1960;USA;23,7;..;9,5;3,654;..;69,7707317073171;583458;180671000
 1961;BRA;43,431;..;13,662;6,044;..;53,183;369;75330008
